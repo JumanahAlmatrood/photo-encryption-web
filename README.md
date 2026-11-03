@@ -16,8 +16,8 @@ A Flask web app that encrypts uploaded photos and decrypts them in the browser. 
 ## Setup
 
 ```bash
-git clone https://github.com/JumanahAlmatrood/photo-encryption.git
-cd photo-encryption
+git clone https://github.com/JumanahAlmatrood/photo-encryption-web.git
+cd photo-encryption-web
 pip install -r requirements.txt
 python main.py
 ```
@@ -38,4 +38,4 @@ Python, Flask, cryptography, Bootstrap
 
 ## Related project
 
-[photos-encryption](https://github.com/JumanahAlmatrood/photos-encryption) is a desktop version of this idea.
+[photo-encryption-desktop](https://github.com/JumanahAlmatrood/photo-encryption-desktop) is a desktop version of this idea.
