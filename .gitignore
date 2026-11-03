@@ -5,3 +5,6 @@ uploaded_photos/*
 
 encrypted_photos/*
 !encrypted_photos/.gitkeep
+
+.DS_Store
+__pycache__/
